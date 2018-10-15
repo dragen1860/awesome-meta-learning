@@ -4,6 +4,7 @@ A curated list of Meta-Learning resources. Inspired by [awesome-deep-vision](htt
 
 Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-learning/pulls) or [open an issue](https://github.com/dragen1860/awesome-meta-learning/issues) to add papers.
 
+![learning2learn](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwih9qX4nojeAhXDzlQKHVO9Bb8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.elitefts.com%2Feducation%2Ftraining%2Fsports-performance%2Flearning-to-learn-becoming-the-strength-coach-you-were-meant-to-be-part-2-needs-formatted%2F&psig=AOvVaw3n_asJQAVbrMg9s7fIE5iN&ust=1539685854550626)
 # List
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML 2017
 * [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175), Jake Snell, Kevin Swersky, Richard S. Zemel.
