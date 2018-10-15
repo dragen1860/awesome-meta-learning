@@ -15,4 +15,5 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 * [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025), Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales, CVPR 2017
 * [Object-Level Representation Learning for Few-Shot Image Classification](https://arxiv.org/abs/1805.10777), Liangqu Long, Wei Wang, Jun Wen, Meihui Zhang, Qian Lin, Beng Chin Ooi
 * [A Simple Neural Attentive Meta-Learner](https://arxiv.org/abs/1707.03141), Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel. ICLR 2018
-
+* [Meta-Learning for Semi-Supervised Few-Shot Classification](https://openreview.net/forum?id=HJcSzz-CZ), Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel. ICLR 2018
+* [Learning to Optimize](https://arxiv.org/abs/1606.01885), Ke Li, Jitendra Malik
