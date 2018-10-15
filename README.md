@@ -5,7 +5,7 @@ A curated list of Meta-Learning resources. Inspired by [awesome-deep-vision](htt
 Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-learning/pulls) or [open an issue](https://github.com/dragen1860/awesome-meta-learning/issues) to add papers.
  
 
-![learning2learn](learning2learn.jpg=320x)
+![learning2learn](learning2learn.jpg =320x)
 
 # List
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML 2017
