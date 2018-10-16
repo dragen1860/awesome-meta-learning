@@ -26,5 +26,6 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 * [Unsupervised Learning via Meta-Learning](https://arxiv.org/pdf/1810.02334.pdf), Kyle Hsu, Sergey Levine, Chelsea Finn
 
 
-# Tutorials
+# Tutorials and Slides
 * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
+* [Deep learning to learn](https://www.dropbox.com/s/j7coq7rz6ig5f6n/2018_08_02_Amazon-SF-ML-Meetup-Abbeel-final.pdf?dl=0). Pieter Abbeel
