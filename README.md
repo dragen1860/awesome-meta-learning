@@ -37,4 +37,4 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 * [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/), Princeton University
 * [Hugo Larochelle](https://ai.google/research/people/105144), Google Brain
 * [Jake Snell](http://www.cs.toronto.edu/~jsnell/), University of Toronto, Vector Institute
-
+* [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), DeepMind
