@@ -29,3 +29,12 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 # Tutorials and Slides
 * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
 * [Deep learning to learn](https://www.dropbox.com/s/j7coq7rz6ig5f6n/2018_08_02_Amazon-SF-ML-Meetup-Abbeel-final.pdf?dl=0). Pieter Abbeel
+* [Meta-Learning Frontiers: Universal, Uncertain, and Unsupervised](http://people.eecs.berkeley.edu/~cbfinn/_files/metalearning_frontiers_2018_small.pdf), Sergey Levine, Chelsea Finn
+
+# Researechers and Labs
+* [Chelsa Finn](http://people.eecs.berkeley.edu/~cbfinn/), UC Berkeley
+* [Misha Denil](http://mdenil.com/), DeepMind
+* [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/), Princeton University
+* [Hugo Larochelle](https://ai.google/research/people/105144), Google Brain
+* [Jake Snell](http://www.cs.toronto.edu/~jsnell/), University of Toronto, Vector Institute
+
