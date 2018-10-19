@@ -8,6 +8,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 ![learning2learn](learning2learn.jpg)
 
 # Papers and Code
+* [Gradient Agreement as an Optimization Objective for Meta-Learning](Amir Erfan Eshratifar, David Eigen, Massoud Pedram). 
 * [Few-Shot Image Recognition by Predicting Parameters from Activations](https://arxiv.org/abs/1706.03466). Siyuan Qiao, Chenxi Liu, Wei Shen, Alan Yuille. CVPR 2018.
 [![Code](github.jpg)](https://github.com/joe-siyuan-qiao/FewShot-CVPR)
 * [META-LEARNING WITH LATENT EMBEDDING OPTIMIZATION](https://arxiv.org/pdf/1807.05960.pdf). Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero & Raia Hadsell
