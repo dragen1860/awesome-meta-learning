@@ -21,7 +21,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 Matt Botvinick, Nando de Freitas, ICML 2017
 * [OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=rJY0-Kcll), Sachin Ravi, Hugo Larochelle. ICLR 2017
 * [Meta-SGD: Learning to Learn Quickly for Few-Shot Learning](https://arxiv.org/abs/1707.09835), Zhenguo Li, Fengwei Zhou, Fei Chen, Hang Li
-* [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025), Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales, CVPR 2017
+* [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025), Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales, CVPR 2018
 * [Object-Level Representation Learning for Few-Shot Image Classification](https://arxiv.org/abs/1805.10777), Liangqu Long, Wei Wang, Jun Wen, Meihui Zhang, Qian Lin, Beng Chin Ooi
 * [A Simple Neural Attentive Meta-Learner](https://arxiv.org/abs/1707.03141), Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel. ICLR 2018
 * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://openreview.net/forum?id=HJcSzz-CZ), Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel. ICLR 2018
@@ -30,6 +30,7 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 * [Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.pdf), Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap
 * [CAML: Fast Context Adaptation via Meta-Learning](https://arxiv.org/abs/1810.03642), Luisa M Zintgraf, Kyriacos Shiarlis, Vitaly Kurin, Katja Hofmann, Shimon Whiteson
 * [Unsupervised Learning via Meta-Learning](https://arxiv.org/pdf/1810.02334.pdf), Kyle Hsu, Sergey Levine, Chelsea Finn
+* [Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering](http://xuanyidong.com/pdf/FPAIT-MM-18.pdf). Xuanyi Dong, Linchao Zhu, De Zhang, Yi Yang, Fei Wu. [![Code](github.jpg)](https://github.com/D-X-Y/FPAIT)
 
 
 # Tutorials and Slides
