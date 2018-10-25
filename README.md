@@ -8,6 +8,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 ![learning2learn](learning2learn.jpg)
 
 # Papers and Code
+* [Learned optimizers that outperform SGD on wall-clock and validation loss](https://arxiv.org/abs/1810.10180). Luke Metz, Niru Maheswaranathan, Jeremy Nixon, C. Daniel Freeman, Jascha Sohl-Dickstein
 * [Gradient Agreement as an Optimization Objective for Meta-Learning](https://arxiv.org/pdf/1810.08178.pdf). Amir Erfan Eshratifar, David Eigen, Massoud Pedram. 
 * [Few-Shot Image Recognition by Predicting Parameters from Activations](https://arxiv.org/abs/1706.03466). Siyuan Qiao, Chenxi Liu, Wei Shen, Alan Yuille. CVPR 2018.
 [![Code](github.jpg)](https://github.com/joe-siyuan-qiao/FewShot-CVPR)
