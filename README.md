@@ -17,6 +17,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 * [META-LEARNING WITH LATENT EMBEDDING OPTIMIZATION](https://arxiv.org/pdf/1807.05960.pdf). Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero & Raia Hadsell
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML 2017.
 [![Code](github.jpg)](https://github.com/cbfinn/maml) [![Code](github.jpg)](https://github.com/cbfinn/maml_rl) [![Code](github.jpg)](https://github.com/dragen1860/MAML-Pytorch) [![Code](github.jpg)](https://github.com/tristandeleu/pytorch-maml-rl)
+* [On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999). Alex Nichol, Joshua Achiam, John Schulman.
+[![Code](github.jpg)](https://github.com/openai/supervised-reptile) 
 * [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175), Jake Snell, Kevin Swersky, Richard S. Zemel. NIPS 2017. 
 [![Code](github.jpg)](https://github.com/jakesnell/prototypical-networks)
 * [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474), Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas
