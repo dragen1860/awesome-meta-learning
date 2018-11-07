@@ -37,6 +37,8 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 [miniImageNet Pytorch![Code](github.jpg)](https://github.com/dragen1860/LearningToCompare-Pytorch)
 * [Object-Level Representation Learning for Few-Shot Image Classification](https://arxiv.org/abs/1805.10777), Liangqu Long, Wei Wang, Jun Wen, Meihui Zhang, Qian Lin, Beng Chin Ooi
 * [A Simple Neural Attentive Meta-Learner](https://arxiv.org/abs/1707.03141), Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel. ICLR 2018
+[![Code](github.jpg)](https://github.com/eambutu/snail-pytorch)
+
 * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://openreview.net/forum?id=HJcSzz-CZ), Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel. ICLR 2018
 * [Learning to Optimize](https://arxiv.org/abs/1606.01885), Ke Li, Jitendra Malik
 * [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080), Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
