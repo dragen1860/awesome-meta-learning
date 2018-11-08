@@ -8,6 +8,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 ![learning2learn](learning2learn.jpg)
 
 # Papers and Code
+* [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html). Finn, Chelsea. 
 * [How to train your MAML](https://arxiv.org/abs/1810.09502). Antreas Antoniou, Harrison Edwards, Amos Storkey.
 [![Code](github.jpg)](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch)
 * [Learned optimizers that outperform SGD on wall-clock and validation loss](https://arxiv.org/abs/1810.10180). Luke Metz, Niru Maheswaranathan, Jeremy Nixon, C. Daniel Freeman, Jascha Sohl-Dickstein
