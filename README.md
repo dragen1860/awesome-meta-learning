@@ -31,7 +31,8 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 [![Code](github.jpg)](https://github.com/twitter/meta-learning-lstm) 
 [![Code](github.jpg)](https://github.com/gitabcworld/FewShotLearning) 
 * [Meta-SGD: Learning to Learn Quickly for Few-Shot Learning](https://arxiv.org/abs/1707.09835), Zhenguo Li, Fengwei Zhou, Fei Chen, Hang Li
-[Tensorflow](https://github.com/foolyc/Meta-SGD)
+[![Code](github.jpg)](https://github.com/foolyc/Meta-SGD)
+* [Unsupervised Meta-Learning for Reinforcement Learning](https://arxiv.org/abs/1806.04640). Abhishek Gupta, Benjamin Eysenbach, Chelsea Finn, Sergey Levine.
 * [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025), Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales, CVPR 2018
 [Few-shot Pytorch![Code](github.jpg)](https://github.com/floodsung/LearningToCompare_FSL)
 [Zero-shot Pytorch![Code](github.jpg)](https://github.com/lzrobots/LearningToCompare_ZSL)
