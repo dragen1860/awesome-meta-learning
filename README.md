@@ -8,6 +8,9 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 ![learning2learn](learning2learn.jpg)
 
 # Papers and Code
+
+* [Deep Comparison: Relation Columns for Few-Shot Learning](https://128.84.21.199/abs/1811.07100?context=cs). Xueting Zhang, Flood Sung, Yuting Qiang, Yongxin Yang, Timothy M. Hospedales.
+
 * [Towards learning-to-learn](https://arxiv.org/abs/1811.00231). Benjamin James Lansdell, Konrad Paul Kording.
 
 * [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html). Finn, Chelsea. 
