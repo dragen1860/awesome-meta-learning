@@ -9,6 +9,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 
 # Papers and Code
 
+* [Guiding Policies with Language via Meta-Learning](https://arxiv.org/abs/1811.07882). John D. Co-Reyes, Abhishek Gupta, Suvansh Sanjeev, Nick Altieri, John DeNero, Pieter Abbeel, Sergey Levine.
+
 * [Deep Comparison: Relation Columns for Few-Shot Learning](https://128.84.21.199/abs/1811.07100?context=cs). Xueting Zhang, Flood Sung, Yuting Qiang, Yongxin Yang, Timothy M. Hospedales.
 
 * [Towards learning-to-learn](https://arxiv.org/abs/1811.00231). Benjamin James Lansdell, Konrad Paul Kording.
