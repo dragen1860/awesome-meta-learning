@@ -64,6 +64,8 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 
 # Tutorials and Slides
 
+* [What’s Wrong with Meta-Learning](http://metalearning.ml/2018/slides/meta_learning_2018_Levine.pdf)
+
 * [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 
 * [How to train your MAML: A step by step approach](https://www.bayeswatch.com/2018/11/30/HTYM/)
