@@ -9,7 +9,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 
 # Papers and Code
 
-* [Auto-Meta: Automated Gradient Based Meta Learner Search](https://arxiv.org/pdf/1806.06927.pdf).
+* [Auto-Meta: Automated Gradient Based Meta Learner Search](https://arxiv.org/pdf/1806.06927.pdf). Jaehong Kim, Youngduck Choi, Moonsu Cha, Jung Kwon Lee, Sangyeul Lee, Sungwan Kim, Yongseok Choi, Jiwon Kim.
 
 * [MetaGAN: An Adversarial Approach to Few-Shot Learning](http://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning). ZHANG, Ruixiang and Che, Tong and Ghahramani, Zoubin and Bengio, Yoshua and Song, Yangqiu.
 
@@ -65,6 +65,8 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 
 
 # Tutorials and Slides
+
+* NeuraIPS meta-learning workshop: [2018](http://metalearning.ml/2018/), [2017](http://metalearning.ml/2017/)
 
 * [What’s Wrong with Meta-Learning](http://metalearning.ml/2018/slides/meta_learning_2018_Levine.pdf)
 
