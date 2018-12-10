@@ -9,6 +9,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 
 # Papers and Code
 
+* [Auto-Meta: Automated Gradient Based Meta Learner Search](https://arxiv.org/pdf/1806.06927.pdf).
+
 * [MetaGAN: An Adversarial Approach to Few-Shot Learning](http://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning). ZHANG, Ruixiang and Che, Tong and Ghahramani, Zoubin and Bengio, Yoshua and Song, Yangqiu.
 
 * [Guiding Policies with Language via Meta-Learning](https://arxiv.org/abs/1811.07882). John D. Co-Reyes, Abhishek Gupta, Suvansh Sanjeev, Nick Altieri, John DeNero, Pieter Abbeel, Sergey Levine.
