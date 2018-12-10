@@ -63,7 +63,11 @@ Matt Botvinick, Nando de Freitas, ICML 2017
 
 
 # Tutorials and Slides
+
 * [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+
+* [How to train your MAML: A step by step approach](https://www.bayeswatch.com/2018/11/30/HTYM/)
+
 * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
 * [Deep learning to learn](https://www.dropbox.com/s/j7coq7rz6ig5f6n/2018_08_02_Amazon-SF-ML-Meetup-Abbeel-final.pdf?dl=0). Pieter Abbeel
 * [Meta-Learning Frontiers: Universal, Uncertain, and Unsupervised](http://people.eecs.berkeley.edu/~cbfinn/_files/metalearning_frontiers_2018_small.pdf), Sergey Levine, Chelsea Finn
