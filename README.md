@@ -9,6 +9,8 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-meta-l
 
 # Papers and Code
 
+* [FIGR: Few-shot Image Generation with Reptile](https://arxiv.org/abs/1901.02199). Louis Clouâtre, Marc Demers.
+
 * [Online gradient-based mixtures for transfer modulation in meta-learning](https://arxiv.org/abs/1812.06080). Ghassen Jerfel, Erin Grant, Thomas L. Griffiths, Katherine Heller.
 
 * [Auto-Meta: Automated Gradient Based Meta Learner Search](https://arxiv.org/pdf/1806.06927.pdf). Jaehong Kim, Youngduck Choi, Moonsu Cha, Jung Kwon Lee, Sangyeul Lee, Sungwan Kim, Yongseok Choi, Jiwon Kim.
